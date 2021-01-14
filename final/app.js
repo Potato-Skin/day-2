@@ -22,7 +22,7 @@ console.log(nullVal === undefiVal);
 if (true) {
   console.log("SOMETHING HAPPENS IN THIS IF STATEMENTE. ALWAYS");
 } else {
-  console.log("WHERE NOTHING WILL BE READ");
+  console.log("HERE NOTHING WILL BE READ");
 }
 
 // falsy
